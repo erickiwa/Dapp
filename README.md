@@ -1,6 +1,7 @@
-# DAPP
-
-## Projeto de Dapp simples. É basicamente é um to-do list
+<div align="center">
+    <h1>DAPP</h1>
+    <h2>Projeto de Dapp simples. É basicamente é um to-do list</h2>
+</div>
 
 ### Solidity:
     Linguagem para criação de smart-contracts 
