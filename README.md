@@ -2,7 +2,7 @@
     <h1>DAPP</h1>
 </div>
 
-## Projeto de Dapp simples. É basicamente é um to-do list
+### Projeto de Dapp simples. É basicamente é um to-do list
 ### Solidity:
 > Linguagem para criação de smart-contracts
 ### Ganache & Metamask:
