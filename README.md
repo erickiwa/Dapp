@@ -4,7 +4,7 @@
     <h2>Projeto de Dapp simples. É basicamente é um to-do list</h2>
 </div>
 
-<div>:
+<div>
     <h2>Solidity:</h2>
     <h3>Linguagem para criação de smart-contracts</h3>
     <h2>Ganache & Metamask:</h2>
