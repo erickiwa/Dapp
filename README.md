@@ -3,8 +3,8 @@
 ## Projeto de Dapp simples. É basicamente é um to-do list
 
 ### Solidity:
-  Linguagem para criação de smart-contracts 
-### Ganache & Metamask
+    Linguagem para criação de smart-contracts 
+### Ganache & Metamask:
     ganache é uma blockchain pessoal para testes, similar a bsc, eth e etc. Funciona bem com a Metamask
-### Truffle
+### Truffle:
     truffle adiciona algumas ferramentas para ajudar com o desenvolvimento, deploy e mais algumas coisas
