@@ -1,6 +1,8 @@
 <div align="center" color="black">
-    <h1>DAPP(não está funcionando na versão atual da web3)</h1>
+    <h1>DAPP</h1>
+    <h5>(não está mais funcionando nas recentes atualizações da web3)</h5>
 </div>
+
 
 ### Projeto de Dapp simples. É basicamente é um to-do list
 ### Solidity:
