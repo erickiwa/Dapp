@@ -1,5 +1,5 @@
 <div align="center" color="black">
-    <h1>DAPP</h1>
+    <h1>DAPP(não está funcionando na versão atual da web3)</h1>
 </div>
 
 ### Projeto de Dapp simples. É basicamente é um to-do list
